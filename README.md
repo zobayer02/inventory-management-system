@@ -44,13 +44,8 @@ Sellers can efficiently manage day-to-day sales activities:
   - PHP  
 
 - **Database:**  
-  - MySQL  
-
---- 
-
-**Seller Panel**  
-![Seller Panel](add-your-screenshot-link-here.png)  
-
+  - MySQL
+  
 ---
 
 ## Acknowledgments

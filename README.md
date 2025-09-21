@@ -46,15 +46,7 @@ Sellers can efficiently manage day-to-day sales activities:
 - **Database:**  
   - MySQL  
 
----
-
-## Screenshots
-
-Add project screenshots here to make the README visually engaging.  
-For example:  
-
-**Admin Dashboard**  
-![Admin Dashboard](add-your-screenshot-link-here.jpg)  
+--- 
 
 **Seller Panel**  
 ![Seller Panel](add-your-screenshot-link-here.png)  
